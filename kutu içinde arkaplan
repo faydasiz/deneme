@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        h1{
+            border-style:solid;
+            background-image: url(C:\Users\Hasan\OneDrive\Masaüstü\HTMLkutu\resimler\kerem.jpg);
+         
+
+        }
+        p{
+         border-style: solid;
+         width: 200px;
+         height: 100px;
+         background-image: url(C:\Users\Hasan\OneDrive\Masaüstü\HTMLkutu\resimler\kerem.jpg);
+         background-size: 100px;
+         background-repeat: repeat-x;
+
+        }
+    </style>
+    </head>
+    <body>
+        <h1 id="mine">başlık</h1>
+        <p>içerik1</p>
+        <p>içerik2</p>
+
+    </body>
+</html>
